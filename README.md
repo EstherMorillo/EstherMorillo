@@ -1,4 +1,4 @@
-### Hi there 👋 bombasto
+### Hi there 👋 Actualmente estoy aprendiendo en Skylab Coders Academy
 
 <!--
 **EstherMorillo/EstherMorillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

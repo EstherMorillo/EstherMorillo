@@ -1,6 +1,6 @@
 ### Hi there 👋  I’m currently learning en Skylab Coders Academy
 
-[<img src="https://trello-attachments.s3.amazonaws.com/5f6c74a4a4db4d2f90868910/5f6c76da9b032e8f52751327/fcfb7216c812ec4a21a797126f17e3a7/linkedin-black.svg" alt="linkedin"/>](https://www.linkedin.com/in/esthermorillo/)
+[<img src="https://trello-attachments.s3.amazonaws.com/5f6c74a4a4db4d2f90868910/5f6c76da9b032e8f52751327/fcfb7216c812ec4a21a797126f17e3a7/linkedin-black.svg" witdth="80px" heigth="80px" alt="linkedin"/>](https://www.linkedin.com/in/esthermorillo/)
 
 <!--
 **EstherMorillo/EstherMorillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
